@@ -1,6 +1,9 @@
 # Celebrity-Age-Classification
 This repo contains code, doc of Machine Learning Challenge in Analytics Vidhya platform where I finished in 5th place out of 4500+ competitors.
 
+** Indian Celebrities **
+![h](https://github.com/subashgandyer/Celebrity-Age-Classification/blob/master/Screenshot.png)
+
 ## Objective
 
 The objective of this DigitalVidhya Computer Vision challenge is to build a State-of-the-art classification system that will classify 3 classes of Age groups like Young, Mid and Old of Celebrities, which will position me in Top-10 of the leaderboard.
